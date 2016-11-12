@@ -7,4 +7,4 @@ I have no doubt there will be better ways to do this. If you're aware of one ple
 
 I hope you find the below examples useful. The first one clears the axes before plotting, the second one doesn't.
 
-**You will need to download the notebook and run it on your installation of Jupyter**
+**You will need to download the notebook (working_example.ipynb) and run it on your installation of Jupyter**
