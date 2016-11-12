@@ -6,3 +6,5 @@ Updating a matplotlib figure within Jupyter was not an obvious task for me. I ma
 I have no doubt there will be better ways to do this. If you're aware of one please let me know.
 
 I hope you find the below examples useful. The first one clears the axes before plotting, the second one doesn't.
+
+**You will need to download the notebook and run it on your installation of Jupyter**
